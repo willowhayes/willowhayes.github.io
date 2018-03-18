@@ -1,0 +1,15 @@
+<svg id="Layer_1" data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21.999 22.008">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #fff;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>featheredfriends</title>
+  <path class="cls-1" d="M608.238,400.238a6,6,0,1,0-8.488-8.488L593,398.5V407h8.5Zm0,0M604,396l-14,14m15-7h-8" transform="translate(-589 -388.992)"/>
+</svg>

@@ -1,0 +1,130 @@
+<manifest alg="2" build="2017.0.0.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="featheredfriends.com" resolutions="1x" timestamp="1521405670111">
+  <folder name="css">
+    <file name="site_global.css" crc="123536744"/>
+    <file name="index.css" crc="243229757" ref="index"/>
+    <file name="nomq_index.css" crc="4233482748" ref="index"/>
+  </folder>
+  <folder name="assets">
+    <file name="henwalkgif.gif" crc="3989030326" seo="true" mt="1521392295000"/>
+    <file name="chickens_outside_01-(1).mp4" crc="3841559132" seo="true" mt="1521405524000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="163421577" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="36584860" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="379354253" ref="index"/>
+    <file name="jquery.watch.js" crc="104486786" ref="index"/>
+    <file name="webpro.js" crc="3848665353" ref="index"/>
+    <file name="musewpslideshow.js" crc="4041717617" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="36492500" ref="index"/>
+    <file name="touchswipe.js" crc="404375771" ref="index"/>
+    <file name="form_check.php" crc="158155501" ref="index"/>
+    <file name="form_throttle.php" crc="3992970984" ref="index"/>
+    <file name="form_process.php" crc="4078697226" ref="index"/>
+    <file name="form-u14954.php" crc="69254869" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="4065090679" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="4146931122" ref="index"/>
+    <file name="require.js" crc="244322403" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="pexels-photo-195226.jpg" crc="3981447462" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="u7597.png" crc="4084007355" ref="index"/>
+    <file name="u7597-r.png" crc="4084007355" ref="index"/>
+    <file name="u7592.png" crc="3806803308" ref="index"/>
+    <file name="u7592-r.png" crc="3806803308" ref="index"/>
+    <file name="u7773_states.png" crc="166340624" ref="index"/>
+    <file name="u7773_states-r.png" crc="252089533" ref="index"/>
+    <file name="u7773_states-a.png" crc="4258872139" ref="index"/>
+    <file name="u7776_states.png" crc="4275937929" ref="index"/>
+    <file name="u7776_states-r.png" crc="1852511" ref="index"/>
+    <file name="u7776_states-a.png" crc="3888610578" ref="index"/>
+    <file name="u7775_states.png" crc="503285670" ref="index"/>
+    <file name="u7775_states-r.png" crc="296178038" ref="index"/>
+    <file name="u7775_states-a.png" crc="68090593" ref="index"/>
+    <file name="u7751_states.png" crc="4130101227" ref="index"/>
+    <file name="u7751_states-r.png" crc="423500558" ref="index"/>
+    <file name="u7751_states-a.png" crc="222261618" ref="index"/>
+    <file name="u7772_states.png" crc="4163681651" ref="index"/>
+    <file name="u7772_states-r.png" crc="357108091" ref="index"/>
+    <file name="u7772_states-a.png" crc="4236397648" ref="index"/>
+    <file name="featheredfriends.svg" crc="358403814" seo="true" ref="index"/>
+    <file name="featheredfriends_poster_.png" crc="3975518046" ref="index"/>
+    <file name="u7777-4.png" crc="446756504" ref="index"/>
+    <file name="landscape-u18125-fr.jpg" crc="3820284593" ref="index"/>
+    <file name="u7630-4.png" crc="4021192024" ref="index"/>
+    <file name="u7629-4.png" crc="36769942" ref="index"/>
+    <file name="u7595-7.png" crc="4259142269" ref="index"/>
+    <file name="canada-flag-country-nation-union-empire-3d77c6a10f4a8a61.svg" crc="219230618" seo="true" ref="index"/>
+    <file name="canada-flag-country-nation-union-empire-3d77c6a10f4a8a61_poster_.png" crc="4222495752" ref="index"/>
+    <file name="united-states-of-america-flag-country-nation-union-empire-3fa5b52263469f9b.svg" crc="110637226" seo="true" ref="index"/>
+    <file name="united-states-of-america-flag-country-nation-union-empire-3fa5b52263469f9b_poster_.png" crc="4268576750" ref="index"/>
+    <file name="mexico-flag-country-nation-union-empire-3a5aeae47f01ba39.svg" crc="332993675" seo="true" ref="index"/>
+    <file name="mexico-flag-country-nation-union-empire-3a5aeae47f01ba39_poster_.png" crc="4107531715" ref="index"/>
+    <file name="2161973228_86eea78e88_o.jpg" crc="4173404626" seo="true" ref="index"/>
+    <file name="5087093906_a85fe75092_o.jpg" crc="510516622" seo="true" ref="index"/>
+    <file name="farmer-smile-man-person-45852.jpg" crc="306601436" seo="true" ref="index"/>
+    <file name="peasant-rice-fields-rice-crops-colombia-50715.jpg" crc="493600386" seo="true" ref="index"/>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u7618-4.png" crc="4167858241" ref="index"/>
+    <file name="u15200-34.png" crc="362185471" ref="index"/>
+    <file name="eggduo.svg" crc="468944908" seo="true" ref="index"/>
+    <file name="eggduo_poster_.png" crc="3914179092" ref="index"/>
+    <file name="chick.svg" crc="4130403853" seo="true" ref="index"/>
+    <file name="chick_poster_.png" crc="385164417" ref="index"/>
+    <file name="henicon.svg" crc="4238401221" seo="true" ref="index"/>
+    <file name="henicon_poster_.png" crc="3786138688" ref="index"/>
+    <file name="pexels-photo-195226-u7574-fr.jpg" crc="174580106" ref="index"/>
+    <file name="landscape.jpg" crc="45498812" ref="index"/>
+    <file name="landscape-crop-u9923.jpg" crc="141352174" ref="index"/>
+    <file name="u7629-42.png" crc="27330828" ref="index"/>
+    <file name="u7595-72.png" crc="124579953" ref="index"/>
+    <file name="u7630-42.png" crc="3884909502" ref="index"/>
+    <file name="u7777-42.png" crc="4274723337" ref="index"/>
+    <file name="u15200-342.png" crc="362185471" ref="index"/>
+    <file name="u7618-42.png" crc="4196573091" ref="index"/>
+    <file name="u7773_states2.png" crc="166340624" ref="index"/>
+    <file name="u7773_states-r2.png" crc="252089533" ref="index"/>
+    <file name="u7773_states-a2.png" crc="61339078" ref="index"/>
+    <file name="u75972.png" crc="4084007355" ref="index"/>
+    <file name="u7597-r2.png" crc="4084007355" ref="index"/>
+    <file name="u7772_states2.png" crc="4163681651" ref="index"/>
+    <file name="u7772_states-r2.png" crc="357108091" ref="index"/>
+    <file name="u7772_states-a2.png" crc="254228082" ref="index"/>
+    <file name="u75922.png" crc="3806803308" ref="index"/>
+    <file name="u7592-r2.png" crc="3806803308" ref="index"/>
+    <file name="u7751_states2.png" crc="4130101227" ref="index"/>
+    <file name="u7751_states-r2.png" crc="423500558" ref="index"/>
+    <file name="u7751_states-a2.png" crc="466909872" ref="index"/>
+    <file name="u7775_states2.png" crc="503285670" ref="index"/>
+    <file name="u7775_states-r2.png" crc="296178038" ref="index"/>
+    <file name="u7775_states-a2.png" crc="125270474" ref="index"/>
+    <file name="u7776_states2.png" crc="4275937929" ref="index"/>
+    <file name="u7776_states-r2.png" crc="1852511" ref="index"/>
+    <file name="u7776_states-a2.png" crc="4291030856" ref="index"/>
+    <file name="u75973.png" crc="4084007355" ref="index"/>
+    <file name="u7597-r3.png" crc="4084007355" ref="index"/>
+    <file name="u75923.png" crc="3806803308" ref="index"/>
+    <file name="u7592-r3.png" crc="3806803308" ref="index"/>
+    <file name="landscape-crop-u99232.jpg" crc="4072900626" ref="index"/>
+    <file name="u7629-43.png" crc="4014843009" ref="index"/>
+    <file name="u7595-73.png" crc="235050487" ref="index"/>
+    <file name="u7630-43.png" crc="4213349003" ref="index"/>
+    <file name="u15200-343.png" crc="362185471" ref="index"/>
+    <file name="u7618-43.png" crc="272034425" ref="index"/>
+    <file name="u7777-43.png" crc="3952365895" ref="index"/>
+    <file name="u75974.png" crc="4084007355" ref="index"/>
+    <file name="u7597-r4.png" crc="4084007355" ref="index"/>
+    <file name="u75924.png" crc="3806803308" ref="index"/>
+    <file name="u7592-r4.png" crc="3806803308" ref="index"/>
+    <file name="u7777-44.png" crc="3952365895" ref="index"/>
+    <file name="landscape-crop-u99233.jpg" crc="404830320" ref="index"/>
+    <file name="u7629-44.png" crc="4279197748" ref="index"/>
+    <file name="u7630-44.png" crc="4031422238" ref="index"/>
+    <file name="u7595-74.png" crc="4242558831" ref="index"/>
+    <file name="u7618-44.png" crc="224392136" ref="index"/>
+    <file name="u15200-344.png" crc="362185471" ref="index"/>
+  </folder>
+  <file name="index.html" crc="4260228150" seo="true" mt="1521405660585" redirect="true"/>
+</manifest>
